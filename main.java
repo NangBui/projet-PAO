@@ -8,8 +8,11 @@ public class HelloWorld {
       // evolution 1
       System.out.println("debut projet....");
 
-      // evolution 2
+      // integration LOT2 ANO1
       System.out.println("INTEGRATION ANO1");
+
+      // evolution 3 sans lot 2
+      System.out.println("debut projet lot3....");
 
    }
 }
