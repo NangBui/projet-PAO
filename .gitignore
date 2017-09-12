@@ -1,0 +1,6 @@
+*.log
+build/
+bin/
+configuration.xml
+src/java/main/db.java
+src/java/*/*.js
