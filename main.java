@@ -6,5 +6,9 @@ public class HelloWorld {
 
       // evolution 1
       System.out.println("debut projet....");
+
+      // evolution 3 sans lot 2
+      System.out.println("debut projet lot3....");
+
    }
 }
